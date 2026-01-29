@@ -1,0 +1,8 @@
+phpinfo.php-->www\.php
+test.php-->^((?!404).)*$
+phpMyAdmin/-->phpmyadmin.css\.php
+admin/--><form
+manage/--><form
+server-status-->Server Version:
+test.asp-->^((?!404).)*$
+test.jsp-->^((?!404).)*$
